@@ -1,0 +1,35 @@
+--- Food Ordering System ---
+1. View Menu
+2. Add to Cart
+3. Remove from Cart
+4. View Cart
+5. Place Order
+6. Exit
+Enter your choice (1-6): 1
+
+--- Menu ---
+Pizza: $8.99
+Burger: $5.49
+Pasta: $7.99
+Salad: $4.99
+Soda: $1.99
+
+Enter your choice (1-6): 2
+Enter the item you want to add to your cart: Pizza
+How many Pizzas would you like to add? 2
+2 Pizza(s) added to your cart.
+
+Enter your choice (1-6): 4
+
+--- Your Cart ---
+Pizza (x2): $17.98
+Total: $17.98
+
+Enter your choice (1-6): 5
+
+--- Your Cart ---
+Pizza (x2): $17.98
+Total: $17.98
+
+Would you like to place the order? (yes/no): yes
+Thank you for your order! Your food will be ready soon.

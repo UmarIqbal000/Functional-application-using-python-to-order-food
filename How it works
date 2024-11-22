@@ -1,0 +1,6 @@
+View Menu: Displays the menu items and prices.
+Add to Cart: Prompts the user to choose an item and quantity. Updates the cart accordingly.
+Remove from Cart: Allows the user to remove a specific quantity or the entire item from the cart.
+View Cart: Displays all items in the cart, their quantities, individual prices, and the total price.
+Place Order: Confirms the order and clears the cart.
+Exit: Ends the program.
